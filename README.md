@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ruff-necks
+- 👀 I’m interested in mediatek devices. other generic tabs. custom roms/porting custom software custom systemimages.reverse engineering
+- 🌱 I’m currently learning ...linux,sdk developmemt
+- 💞️ I’m looking to collaborate on ...custom system apps for locked devices
+- 📫 How to reach me ...johnnylalbritton@gmail.com
